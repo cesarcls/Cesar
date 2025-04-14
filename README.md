@@ -1,8 +1,10 @@
 # Cesar!
 Seguindo as aulas, foi criado e confugirado o Notebook
-![image](https://github.com/user-attachments/assets/3bdfd5d2-46df-4d1c-9183-7dd9b58b54fc)
+![2025-04-14_12h22_03](https://github.com/user-attachments/assets/3e2716ef-caba-4a49-be02-29f857287d8c)
+
 Aqui foi importado os dados conforme a aula de exercicios;
 
+![image](https://github.com/user-attachments/assets/3bdfd5d2-46df-4d1c-9183-7dd9b58b54fc)
 Seguindo os passos das aulas foram criados Data Factore, MachineLarning, datastorage, hubevents, databricks.
 
 
