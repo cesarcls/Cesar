@@ -1,4 +1,10 @@
 # Cesar!
+Seguindo as auasa, agora foi criado meu Devps bem como no Datafactor foi vinculado o repositorio, como explicado nas aulas
+![image](https://github.com/user-attachments/assets/3d55a8df-4242-4f6e-bb1b-9d7fe1743a55)
+![image](https://github.com/user-attachments/assets/4aefd99d-15d8-41a6-a2d4-7320c225180e)
+![image](https://github.com/user-attachments/assets/6b3ec28f-766d-4201-9f0c-086043f3d6af)
+
+
 Seguindo as aulas, foi criado e confugirado o Notebook
 ![2025-04-14_12h22_03](https://github.com/user-attachments/assets/3e2716ef-caba-4a49-be02-29f857287d8c)
 
